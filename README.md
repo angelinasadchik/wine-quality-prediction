@@ -1,6 +1,4 @@
 # wine-quality-prediction
-# Wine Quality Prediction
-
 This project demonstrates a simple machine learning pipeline for predicting wine quality using chemical measurements.
 
 ## Dataset
